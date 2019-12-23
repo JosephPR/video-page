@@ -5,9 +5,9 @@
     justify-content: center;
     max-width: 100%;
     box-shadow: 0 1px 1px rgba(0,0,0,0.08), 
-    0 2px 2px rgba(0,0,0,0.12), 
-    0 4px 4px rgba(0,0,0,0.16), 
-    0 8px 8px rgba(0,0,0,0.20);
+                0 2px 2px rgba(0,0,0,0.12), 
+                0 4px 4px rgba(0,0,0,0.16), 
+                0 8px 8px rgba(0,0,0,0.20);
 }
 
 .img-fluid {
@@ -35,7 +35,7 @@ iframe{
 }
 
 .btn {
-    font-family: sans-serif;
+    font-family: 'Open Sans' sans-serif !important;
     margin: 3%;
      padding:30px;
     background-color: rgba(229, 240, 234, 0);
@@ -43,7 +43,7 @@ iframe{
     border-color: oldlace;
 }
 .btn:hover {
-    background-color: rgba(239, 249, 250, 0.3); 
+    background-color: rgba(255, 255, 255, 0.8); 
     border-color: oldlace;
 }
 
