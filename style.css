@@ -25,7 +25,7 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 46px;
     text-align: center;
-    color: #0079c1;
+    color: rgb(0, 121, 193);
     padding: 3%;
 }
 
@@ -56,5 +56,5 @@ footer {
 
 .pp:hover {
     transition:  0.3s;
-    color: blue;
+    color: rgb(0, 121, 193);
 }
